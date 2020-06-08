@@ -12,7 +12,7 @@
 	<artifactId>ranchoapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ranchoapi</name>
-	<description>Apollo server to manage a racnho</description>
+	<description>Apollo server to manage a rancho</description>
 
 	<properties>
 		<java.version>11</java.version>
